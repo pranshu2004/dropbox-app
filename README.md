@@ -6,9 +6,9 @@ Quickly summarize the content and get the information you need in **real-time** 
 
 See how the tool works:
 
-![Dropbox AI search tool demo](assets/dropbox-ai-search-tool.gif)
+![Dropbox AI search tool demo](assets/demo.gif)
 
-As you can see the LLM App enables AI-powered search from multiple unstructured documents like tax information from different countries, and indexes input data in real-time just after you upload files to the cloud storage.
+Ideally, the LLM aids the process of studying Stochastic Processes from the text book uploaded. However, my Open AI credits have expired and hence the demonstration was not perfect.
 
 ## How to run the tool
 
