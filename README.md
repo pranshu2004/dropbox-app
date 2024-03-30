@@ -6,7 +6,7 @@ Quickly summarize the content and get the information you need in **real-time** 
 
 See how the tool works:
 
-![Dropbox AI search tool demo](assets/demo.gif)
+![Dropbox AI search tool demo](assets/demo2.gif)
 
 Ideally, the LLM aids the process of studying Stochastic Processes from the text book uploaded. However, my Open AI credits have expired and hence the demonstration was not perfect.
 
